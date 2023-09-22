@@ -1,0 +1,2267 @@
+/*----------------------------------*/
+/*--------Responsive CSS---------*/
+/*----------------------------------*/
+
+
+
+@media(min-width:576px) {
+    .second-section-patient .component-content .ex-patient-featured-item img {
+        max-height: 174px;
+    }
+    .read3 {
+        padding-top: 40px;
+    }
+}
+
+
+@media(min-width:768px) {
+    .left-home-result {
+        display: flex;
+    }
+
+    .tab-content .active#profile {
+        display: flex;
+    }
+
+    .second-section-insurance {
+        /* background-color: #e1f4fc; */
+        padding: 50px;
+    }
+
+    .slide .using-h1-head{
+        color: white!important;
+        font-size: 38px;
+    }
+
+    .second-section-thankyou {
+        padding: 50px;
+    }
+
+    #demo .appeal {
+        display: flex;
+        flex-wrap: wrap !important;
+    }
+
+    .main-first-about {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .main-fourth-about {
+        display: flex;
+    }
+
+    .first-section-pickup {
+        background-color: #e1f4fc;
+        padding: 40px;
+    }
+
+    .sub-section-pickup {
+        /* padding: 40px 0; */
+        font-size: 18px;
+    }
+
+    .first-section-locator {
+        background-color: #e1f4fc;
+        padding: 40px;
+    }
+
+    .first-section-cancel {
+        background-color: #e1f4fc;
+        padding: 40px;
+    }
+
+    .first-section-story {
+        background-color: #e1f4fc;
+        padding: 40px;
+    }
+
+    .first-section-brenda {
+        background-color: #e1f4fc;
+        padding: 40px 0;
+    }
+
+    .sub-section-brenda {
+        padding: 40px;
+    }
+
+    .second-section-brenda {
+        display: flex;
+    }
+
+    .first-section-brenda .sub-section-brenda .second-section-brenda .row .col-lg-9 {
+        /* background-color: var(--primary); */
+        width: 74%;
+    }
+
+    .third-section-brenda,
+    .fourth-section-brenda {
+        padding: 40px;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item a.ex-patient-featured-thumblink {
+        border-left: 8px solid #0087ed;
+        width: 12%;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text {
+        padding: 24px;
+    }
+
+    .ninth-section-patient .container {
+        display: flex;
+    }
+}
+
+@media(min-width:992px) {
+    .seventh-section-difference .container {
+        display: flex;
+    }
+
+    .tenth-section-difference .container {
+        display: flex;
+    }
+
+    .second-section-kit .container {
+        display: flex;
+    }
+
+    .tab-container-one .nav {
+        display: flex;
+    }
+    #menu-main-menu li:hover ul.sub-menu {
+        display: block;
+        z-index: 99!important;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0 !important;
+    }
+
+    .second-section-appeal .container {
+        display: flex;
+        border-top: 10px solid #001963;
+        border-right: 10px solid #001963;
+    }
+
+    .second-section-appeal .col-lg-7,
+    .second-section-appeal .col-lg-5 {
+        padding: 40px;
+    }
+
+    #demo {
+        background-color: #e1f4fc !important;
+    }
+
+    #demo .label-appeal {
+        display: flex;
+        width: 34%;
+    }
+
+    .right-first-about iframe,
+    .right-fourth-about iframe {
+        width: 550px;
+        height: 350px;
+    }
+
+    .sixth-section-about .container {
+        display: flex;
+    }
+
+    .second-about-a {
+        display: flex;
+    }
+
+    .left-ninth-about {
+        border-top-left-radius: 50px;
+    }
+
+    .right-ninth-about {
+        border-top-right-radius: 50px;
+    }
+
+    .ninth-section-about .col-lg-4 {
+        background-color: #0f4e57;
+        text-align: center;
+        padding: 40px 30px 30px;
+        display: block;
+        height: auto;
+        border-top: 0;
+    }
+
+    .center-ninth-about {
+        border-left: 1px solid #f1fac7;
+        border-right: 1px solid #f1fac7;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text .ex-patient-featured-quote {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .component-content-contactus {
+        display: flex;
+    }
+ 
+ul#menu-footer-right-menu {
+    display: flex;
+    justify-content: space-between;
+    padding: unset;
+    margin: unset;
+}   
+
+
+ul#menu-footer-left-menu {
+    padding: 0px;
+    margin: 0;
+    display: flex!important;
+    /* justify-content: space-between; */
+}
+
+}
+
+@media(min-width:1200px) {
+    .second-section-patient .component-content .ex-patient-left-column {
+        width: calc(70% - 12px);
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 24px;
+    }
+}
+
+@media(max-width:576px) {
+    .social-links img {
+        margin: 0px 5px;
+    }
+
+    .row .second-container h2 {
+        padding: 35px 0 0 5px;
+    }
+    .third-section-result{
+        padding: 0;
+    }
+    #getcolon {
+        margin-bottom: 50px;
+    }
+
+    .thirteen-section-about p {
+        font-size: 13px;
+    }
+    .second-section-row .right-contactus {
+        padding: 10px;
+    }
+    #demo .conditional .appeal-pdf {
+        width: 100%!important;
+    }
+
+    #first-image-using {
+        margin: 74px 0 !important;
+    }
+    .fourth-section-difference, .second-section-difference, .tenth-section-difference, .ninth-section-difference, .seventh-section-difference, .third-section-difference, .sixth-section-difference, .fifth-section-difference {
+        padding-top: 20px;
+    }
+    .second-section-row .left-contactus {
+        padding: 10px;
+    }
+
+    .third-section-resources .container {
+        padding: 20px;
+    }
+
+    .second-section-difference .container {
+        text-align: center;
+    }
+
+    .secondsection .right-signup h3 {
+        font-size: 20px;
+    }
+
+    .second-section-terms h3 {
+        font-size: 20px !important;
+    }
+
+    .second-section-terms a {
+        font-size: 16px;
+    }
+
+    .card-body {
+        padding: 10px !important;
+    }
+
+    .left-icon-insurance {
+        border: 12px solid var(--primary);
+        background-color: var(--primary);
+        color: var(--white);
+        border-radius: 50px;
+        display: inline-block;
+        margin: 2px;
+        font-weight: bolder;
+        font-size: 17px;
+        text-align: center;
+        line-height: 34px;
+        width: 56px;
+        height: 56px;
+    }
+
+    .slide img {
+        height: 200px;
+        object-fit: cover;
+        object-position: right;
+    }
+
+    .slide img {
+        height: 200px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .slide img {
+        height: 200px;
+        object-fit: cover;
+        object-position: right;
+    }
+
+    .column {
+        display: grid;
+        text-align: end;
+    }
+
+    .top-footer {
+        padding-top: 15px;
+        background-color: #001963;
+        /* height: 415px; */
+    }
+
+    .slider-content h2 {
+        font-size: 39px;
+    }
+
+    .slider-content .request-colon h2 {
+        font-size: 35px;
+    }
+
+    .top-footer a {
+        padding: 5px 10px;
+    }
+
+    .second-footer .right-container-bottom a {
+        padding: 2px 0;
+    }
+
+    .top-footer .left-container-bottom img {
+        width: 150px;
+    }
+
+    .social-links {
+
+        padding-top: 11px;
+    }
+
+    .content {
+        padding-bottom: 170px;
+    }
+
+    p.ex-reference-text {
+        font-size: 15px;
+        word-break: break-word;
+    }
+
+    .second-section-row ul .li-risk {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .second-content-resources a {
+        font-size: 18px;
+    }
+
+    .second-section-appeal .col-lg-5 .component-content {
+        padding: 26px 10px;
+    }
+
+    select,
+    input[type=text],
+    .date-appeal,
+    .phone-appeal {
+        width: 100% !important;
+    }
+
+    .second-section-patient .ex-patient-featured-item img {
+        width: auto;
+        height: 144px;
+    }
+    .menu-footer-right-menu-container ul{
+        padding: 0!important;
+        margin: 0!important;
+    }
+    ul#menu-footer-left-menu {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media(max-width:768px) {
+    .column {
+        display: grid;
+        text-align: end;
+    }
+
+    .second-section {
+        padding-top: 0px;
+    }
+
+    .third-section-resources {
+        padding-bottom: 0px;
+    }
+
+    .component-content {
+        font-size: 16px;
+    }
+
+    .top-footer {
+        padding-top: 15px;
+        background-color: #004360;
+        /* height: 253px; */
+        padding-bottom: 10px;
+        
+    }
+
+    .second-section-resources .col-lg-7.padding-40 {
+        padding: 0 50px;
+    }
+
+    .top-footer a {
+        padding: 5px 10px;
+    }
+
+    .second-footer .right-container-bottom a {
+        padding: 2px 0;
+    }
+
+    .top-footer .left-container-bottom img {
+        width: 132px;
+    }
+
+    .content {
+        padding-bottom: 150px;
+    }
+
+    a.btn-type-3 {
+        display: flex;
+        margin-right: 323px;
+    }
+
+    .seventh-section-difference .container {
+        display: block;
+    }
+
+    .third-section-about h2 {
+        font-size: 24px;
+    }
+
+    .tenth-section-about {
+        background-image: url('../img/how-to-get-cologuard-mob.webp');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0 65%;
+        padding: 80px 0 90px 0 !important;
+        margin: 50px 0 0 0;
+    }
+
+    .first-section-brenda .second-section-brenda .row .col-lg-9 {
+        /* background-color: var(--primary); */
+        width: 100%;
+        /* padding: 0!important; */
+    }
+
+    .ninth-section-patient p {
+        text-align: center;
+    }
+
+    .ninth-section-patient .container .promo-text {
+        text-align: center;
+    }
+
+
+}
+
+
+@media(max-width:992px) {
+    ul#menu-main-menu {
+        display: block!important;
+    }
+
+    .second-section-row ul li img {
+        width: 10%;
+        padding: 10px 0;
+    }
+    .mainmenu-nav .mainmenu > li, ul#menu-main-menu > li {
+        border-bottom: 1px solid #dcdcdc!important;
+        margin: 0px!important
+    }
+    .column {
+        display: grid;
+        text-align: end;
+    }
+    ul#menu-main-menu > li > a {
+        padding: 10px 20px!important;
+        display: inline-flex;
+        height: auto;
+    }
+    ul.sub-menu {
+        padding: 0 !important;
+        border: unset !important;
+        border-bottom: solid 5px var(--primary) !important;
+        border-radius: 0 !important;
+        box-shadow: 0px 5px 20px 0px #0000003d;
+        z-index: 9999;
+        width: 92%;
+        min-width: auto;
+    }
+    /* .spicewpsearchform{
+        top: 60%;
+    } */
+    input.search-field {
+        width: 75%;
+        border-radius: 20px;
+        padding: 5px;
+    }
+
+    /* .second-section-45 .left-fourth-section .field-promotext{
+        justify-content: center!important;
+    } */
+
+    .second-section-45 {
+        background-color: #fff;
+    }
+
+    .top-footer a {
+        padding: 5px 0px;
+    }
+
+    .second-footer .right-container-bottom a {
+        padding: 4px 5px;
+    }
+
+    .second-section-45 .row .question {
+        text-align: center;
+    }
+
+    .accordion .content {
+        padding: unset !important;
+    }
+
+    .col-lg-3 {
+        text-align: center;
+    }
+
+    .sixth-section-difference .container {
+        display: block;
+    }
+
+    .second-section-difference .dna {
+        padding: 13px 0;
+    }
+
+    .sixth-section-difference .container .col-lg-4 img {
+        margin-bottom: 4px;
+    }
+
+    .seventh-section-difference .container img {
+        width: 100%;
+    }
+
+    .right-border-2px {
+        border-right: 0 solid gray;
+    }
+
+    .tab-container-one .nav {
+        display: block;
+    }
+
+    #demo .label-appeal {
+        display: flex;
+        width: 90%;
+    }
+
+    .second-section-about {
+        text-align: center;
+    }
+
+    .tenth-section-about {
+        background-image: url('../img/how-to-get-cologuard-mob.webp');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 0 65%;
+        padding: 80px 0 90px 0 !important;
+        margin: 50px 0 0 0;
+    }
+
+    .ninth-section-about .col-lg-4 {
+        background-color: #0f4e57;
+        text-align: center;
+        padding: 10px 23px;
+        display: block;
+        height: auto;
+        border-top: 0;
+    }
+
+    .second-left-patient,
+    .ex-patient-right-column,
+    .right-third-patient,
+    .center-fourth-patient,
+    .right-fifth-patient {
+        box-shadow: 0 0 3px 3px rgba(0, 0, 0, .2);
+    }
+
+    .left-third-patient,
+    .center-third-patient,
+    .second-right-patient,
+    .center-third-,
+    .left-fourth-patient,
+    .left-fifth-patient,
+    .center-fifth-patient,
+    .right-fourth-patient {
+        box-shadow: 0 0 3px 3px rgba(0, 0, 0, .2);
+        margin: 20px 0;
+    }
+    .second-section-kit .col-lg-4 , .second-section-kit .col-lg-4 .field-promotext{
+        text-align: center;
+
+    }
+    .second-section-kit .col-lg-4 .field-promotext {
+        font-size: 30px;
+    }
+    a.search_icon {
+        display: none;
+    } 
+     .bottom_right .theme-btn {
+        margin-left: 0px;
+    }
+}
+
+
+
+@media(max-width:1200px) {}
+
+
+@media screen and (max-width: 1600px) and (min-width: 1200px) {
+    .header-top a {
+        margin: 0 71px;
+    }
+}
+
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    .second-section-kit .container iframe {
+        width: 600px;
+        height: 300px;
+    }
+
+    /* .second-container iframe {
+        width: 525px;
+        height: 400px;
+    } */
+    .second-section-difference iframe {
+        height: 250px;
+        width: 458px;
+    }
+
+    .second-section-row .left-billpay {
+        display: flex;
+        background-color: #b8c7d3;
+        padding: 35px;
+    }
+
+    .second-section-row .right-billpay {
+        display: flex;
+        background-color: var(--primary);
+        padding: 35px;
+    }
+
+    .second-section-row .left-billpay i {
+        margin: 20px;
+        font-size: 45px;
+        margin-bottom: 330px;
+    }
+
+    .second-section-row .right-billpay i {
+        margin: 20px;
+        font-size: 45px;
+        margin-bottom: 330px;
+    }
+
+    .second-section-row p {
+        font-size: 18px;
+    }
+
+    .second-section-row ul li img {
+        width: 7%;
+    }
+
+    #getcolon ul {
+        width: 100%;
+    }
+
+    .second-section-45 .row .faq-icon b {
+        font-size: 24px;
+        padding: 4px 0 0px 80px;
+    }
+
+    .field-content,
+    .field-content p {
+        font-size: 18px;
+    }
+
+    .fourth-section-kit a {
+        margin: 0 80px;
+    }
+
+    .seventh-section-kit .row .faq-icon b {
+        font-size: 24px;
+        padding: 0px 0 0px 21px;
+    }
+
+    .tab-content .col-lg-8 iframe {
+        width: 550px;
+        height: 400px;
+    }
+
+    .component-content-risk h2 {
+        font-size: 28px;
+    }
+
+    .second-section-insurance .row .faq-icon b {
+        font-size: 24px;
+        padding: 0px 0 0px 65px;
+    }
+
+    .right-first-about iframe,
+    .right-fourth-about iframe {
+        width: 500px;
+        height: 400px;
+    }
+
+    .first-section-about h1 {
+        font-size: 52px;
+    }
+
+    .second-about-a a {
+        font-size: 17px !important;
+
+    }
+
+    .sixth-section-about img {
+        width: 500px;
+    }
+
+    .eight-section-about h3,
+    .eight-section-about p {
+        padding: 10px;
+    }
+
+    .row .col-lg-4 .share-story-column h2 {
+        padding: 9px;
+    }
+
+    .col-lg-8 .second-right-patient .ex-patient-stories-text {
+        padding: 12px;
+    }
+
+    .left-fourth-patient .ex-patient-stories-text,
+    .center-fourth-patient .ex-patient-stories-text,
+    .right-fourth-patient .ex-patient-stories-text,
+    .left-fifth-patient .ex-patient-stories-text,
+    .center-fifth-patient .ex-patient-stories-text,
+    .right-fifth-patient .ex-patient-stories-text {
+        padding: 31px;
+    }
+
+    .second-section-patient .ex-patient-featured-item {
+        margin-top: -44px;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text {
+        padding: 30px 10px 18px 50px;
+    }
+
+    .header-top a {
+        margin: 0 49px;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    a.btn-type-3 {
+        display: flex;
+        margin-bottom: 50px;
+        margin: auto;
+        margin-bottom: 40px;
+        justify-content: center;
+    }
+
+    .fourth-section-kit a {
+        margin: 0 210px;
+    }
+
+    .second-section-difference iframe {
+        height: 250px;
+        width: 358px;
+    }
+
+
+    .second-section-row p {
+        font-size: 17px;
+    }
+
+    h4.field-promotext {
+        padding-top: 0;
+        margin-bottom: 0;
+        padding-bottom: 39px;
+        display: flex;
+        text-align: center;
+    }
+
+    .info-btn-1 {
+        display: flex;
+    }
+
+    .container .component-content a {
+        font-size: 20px;
+    }
+
+    /* .second-container iframe {
+        margin-top: 30px;
+        width: 500px;
+        height: 300px;
+    } */
+
+    .second-section-row ul li {
+        /* display: flex; */
+        padding: 0px 0;
+        align-items: center;
+    }
+
+    .second-section-row ul li h3 {
+        font-size: 22px;
+        margin-left: 22px;
+        margin-top: 12px;
+    }
+
+    .main-menu img {
+        max-width: 65%;
+        padding: 30px 0 30px 290px;
+    }
+
+    .main-menu h2 {
+        padding-top: 25px;
+        font-size: 38px;
+        color: var(--white);
+        padding-left: 167px;
+    }
+
+    .second-section-row .left-billpay i {
+        margin: 20px;
+        font-size: 45px;
+        margin-bottom: 35px;
+    }
+
+    .second-section-row .left-contact {
+        background-color: var(--primary);
+        display: flex;
+        color: white;
+        padding: 23px;
+    }
+
+    .second-section-row .right-contact {
+        background-color: #001963;
+        color: white;
+        padding: 23px;
+        display: flex;
+    }
+
+    #getcolon ul {
+        width: 100%;
+    }
+
+    .second-section-45 .row .faq-icon b {
+        font-size: 23px;
+        padding: 2px 0 0px 23px;
+    }
+
+    .second-section-45 .row .faq-icon b {
+        font-size: 23px;
+        padding: 3px 0 0px 20px;
+    }
+
+    .accordion-faq .label {
+        font-size: 20px;
+    }
+
+    .field-content,
+    .field-content p {
+        font-size: 17px;
+        padding-bottom: 10px;
+    }
+
+    .fifth-section-difference iframe {
+        padding: 20px 85px;
+        height: 500px;
+        width: 100%;
+    }
+
+    .second-section-kit .container iframe {
+        width: 675px;
+        height: 500px;
+    }
+
+    .tenth-section-difference img {
+        width: 30%;
+        margin-left: 247px;
+    }
+
+    .seventh-section-kit .row .faq-icon b {
+        font-size: 23px;
+        padding: 0px 0 0px 30px;
+    }
+
+    .tab-content .col-lg-8 iframe {
+        width: 450px;
+        height: 400px;
+    }
+
+    .component-content-risk h2 {
+        font-size: 31px;
+    }
+
+    .second-section-insurance .row .faq-icon b {
+        font-size: 21px;
+        padding: 0px 0 0px 46px;
+    }
+
+    .right-first-about iframe,
+    .right-fourth-about iframe {
+        width: 400px;
+        height: 300px;
+    }
+
+    .first-section-about h1 {
+        font-size: 40px;
+    }
+
+    .sixth-section-about img {
+        width: 600px;
+    }
+
+    .eight-section-about h3,
+    .eight-section-about p {
+        padding: 10px;
+    }
+
+    .sub-main-eleventh {
+        padding-top: 30px;
+    }
+
+    .second-about-a a {
+        font-size: 18px !important;
+        /* flex: 0 54.5%; */
+        max-width: 48.5%;
+        margin: 5px auto;
+        text-decoration: none;
+        color: #fff;
+        background-color: #00a49a;
+        padding: 10px 0;
+        border-radius: 50px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 28px;
+        display: inline-block;
+        width: 100%;
+        margin: 10px auto;
+    }
+
+    .fifth-section-about img {
+        width: 15%;
+    }
+
+    .second-section-patient .ex-patient-featured-item {
+        margin-top: -35px;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text {
+        padding: 30px 20px 18px 90px;
+    }
+
+    .social-links li{
+        padding: 0 15px;
+    }
+}
+
+
+@media screen and (max-width: 767px) and (min-width: 576px) {
+    a.btn-type-3 {
+        margin: 0 161px;
+        margin-bottom: 25px;
+        justify-content: center;
+    }
+
+    .fourth-section-kit a {
+        margin: 0 100px;
+    }
+
+    .second-section-difference iframe {
+        padding: 20px 85px;
+        height: 400px;
+        width: 600px;
+    }
+
+    #first-image-using {
+        margin: 17px 0 !important;
+    }
+
+    .second-section-row ul li p {
+        margin: 9px 15px;
+    }
+
+    .second-section-row ul li img {
+        width: 8%;
+    }
+
+    .second-section-row p {
+        font-size: 16px;
+    }
+
+    a.btn-type-3 {
+        margin: auto;
+        margin-bottom: 25px;
+    }
+
+    .info-btn-1 {
+        display: flex;
+    }
+
+    .second-section-row {
+        background-color: #fff;
+        padding: 20px 0px;
+    }
+
+
+
+    .second-section-row ul li h3 {
+        font-size: 20px;
+        margin-left: 22px;
+        margin-top: 12px;
+    }
+
+    .second-section-row ul li {
+        /* display: flex; */
+        padding: 0px 0;
+        align-items: center;
+    }
+
+    .main-menu img {
+        max-width: 70%;
+        padding: 24px 0 24px 154px;
+    }
+
+    .main-menu h2 {
+        padding-top: 25px;
+        font-size: 26px;
+        color: var(--white);
+        padding-left: 92px;
+    }
+
+    .second-section-row .left-billpay i {
+        margin: 20px;
+        font-size: 45px;
+        margin-bottom: 63px;
+    }
+
+    .second-section-row .right-billpay i {
+        border: 20px solid var(--white);
+        background-color: var(--white);
+        color: var(--black);
+        margin: 20px;
+        font-size: 45px;
+        margin-bottom: 222px;
+    }
+
+    .second-section-row .left-contact {
+        background-color: var(--primary);
+        display: flex;
+        color: white;
+        padding: 5px;
+    }
+
+    .second-section-row .right-contact {
+        background-color: #001963;
+        color: white;
+        padding: 5px;
+        display: flex;
+    }
+
+    .second-section-row ul li p {
+        margin: 3px 15px;
+    }
+
+    #getcolon ul {
+        width: 100%;
+    }
+
+    .second-section-45 .row .faq-icon b {
+        font-size: 22px;
+        padding: 5px 0 0px 10px;
+    }
+
+    .accordion-faq .label {
+        font-size: 20px;
+    }
+
+    .field-content,
+    .field-content p {
+        font-size: 17px;
+    }
+
+    .second-section-difference .container {
+        padding: 20px 0 0 0;
+        display: block;
+    }
+
+    .second-section-difference .search {
+        padding: 10px 0;
+    }
+
+    .second-section-difference h3 {
+        padding-top: 40px;
+    }
+
+    .fifth-section-difference iframe {
+        padding: 20px 85px;
+        height: 400px;
+        width: 600px;
+    }
+
+    .container .component-content a {
+        font-size: 18px;
+    }
+
+    .tenth-section-difference img {
+        width: 30%;
+        margin-left: 150px;
+    }
+
+    .second-section-kit .container iframe {
+        width: 500px;
+        height: 300px;
+    }
+
+    .seventh-section-kit .row .faq-icon b {
+        font-size: 20px;
+        padding: 0px 0 0px 23px;
+    }
+
+    .tab-content .col-lg-8 iframe {
+        width: 450px;
+        height: 300px;
+    }
+
+    .component-content-risk h2 {
+        font-size: 28px;
+    }
+
+    .container,
+    .container-sm {
+        max-width: 750px !important;
+    }
+
+    .second-section-insurance .row .faq-icon b {
+        font-size: 20px;
+        padding: 0px 0 0px 34px;
+    }
+
+    .right-first-about iframe,
+    .right-fourth-about iframe {
+        width: 500px;
+        height: 300px;
+    }
+
+    .first-section-about h1 {
+        font-size: 35px;
+    }
+
+    .sixth-section-about img {
+        width: 500px;
+    }
+
+    .eight-section-about h3,
+    .eight-section-about p {
+        padding: 10px;
+    }
+
+    .sub-main-eleventh {
+        padding-top: 25px;
+    }
+
+    .first-section-about {
+        background-position: -200px 0%;
+        padding: 27px 0 27px 0 !important;
+
+    }
+
+    .left-first-about {
+        width: 98%;
+    }
+
+    .second-about-a a {
+        font-size: 18px !important;
+        /* flex: 0 54.5%; */
+        max-width: 90%;
+        margin: 5px auto;
+        text-decoration: none;
+        color: #fff;
+        background-color: #00a49a;
+        padding: 10px 0;
+        border-radius: 50px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 28px;
+        display: inline-block;
+        width: 100%;
+        margin: 10px auto;
+    }
+
+    .fifth-section-about img {
+        width: 15%;
+    }
+
+    .left-sixth-about img {
+        width: 100%;
+    }
+
+    .seventh-section-about h3 {
+        padding: 40px 0;
+    }
+
+    .second-section-patient .ex-patient-featured-item {
+        margin-top: 28px;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text {
+        padding: 20px 10px 10px 13px;
+    }
+
+    .center-third-patient .ex-patient-stories-text,
+    .right-third-patient .ex-patient-stories-text {
+        padding: 25px;
+    }
+
+    .left-fourth-patient .ex-patient-stories-text,
+    .center-fourth-patient .ex-patient-stories-text,
+    .right-fourth-patient .ex-patient-stories-text,
+    .left-fifth-patient .ex-patient-stories-text,
+    .center-fifth-patient .ex-patient-stories-text,
+    .right-fifth-patient .ex-patient-stories-text {
+        padding: 20px;
+    }
+    
+    .social-links li{
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 575px) and (min-width: 480px) {
+    a.btn-type-3 {
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .fourth-section-kit a {
+        margin: 0 50px;
+    }
+
+    .second-section-row ul li p {
+        margin: 6px 15px;
+    }
+
+    .second-section-row ul li img {
+        width: 8%;
+    }
+
+    .second-section-row p {
+        font-size: 18px;
+    }
+
+    h4.field-promotext {
+        padding-top: 0;
+        margin-bottom: 0;
+        padding-bottom: 27px;
+        display: flex;
+        text-align: center;
+    }
+
+    .info-btn-1 {
+        display: flex;
+    }
+
+    .second-section-row {
+        background-color: #fff;
+        padding: 20px 0px;
+    }
+
+    .second-container iframe {
+        margin-top: 30px;
+        width: 300px;
+        height: 200px;
+    }
+
+    .second-section-row ul li {
+        /* display: flex; */
+        padding: 0px 0;
+        align-items: center;
+    }
+
+    .second-section-row ul li h3 {
+        font-size: 20px;
+        margin-left: 22px;
+        margin-top: 12px;
+    }
+
+    .main-menu img {
+        max-width: 70%;
+        padding: 24px 0 24px 154px;
+    }
+
+    .main-menu h2 {
+        padding-top: 25px;
+        font-size: 26px;
+        color: var(--white);
+        padding-left: 92px;
+    }
+
+    .second-section-row .left-billpay i {
+        margin: 20px;
+        font-size: 45px;
+        margin-bottom: 62px;
+    }
+
+    .second-section-row .left-contact {
+
+        padding: 5px;
+    }
+
+    .second-section-row .right-contact {
+        padding: 5px;
+    }
+
+    .left-contact img {
+        width: 15%;
+    }
+
+    .right-contact img {
+        width: 15%;
+    }
+
+    .second-section-row .right-contactus {
+        padding: 18px;
+    }
+
+    .second-section-45 .row .faq-icon b {
+        font-size: 21px;
+        padding: 0px 0 0px 12px;
+    }
+
+    .accordion-faq .label {
+        font-size: 20px;
+    }
+
+    .field-content,
+    .field-content p {
+        font-size: 17px;
+    }
+
+    .second-section-difference .container {
+        padding: 10px 0 0 0;
+        display: block;
+    }
+
+    .second-section-difference iframe {
+        padding: 20px 45px;
+        height: 350px;
+        width: 500px;
+    }
+
+    .second-section-difference .search {
+        padding: 5px 0;
+    }
+
+    .fifth-section-difference iframe {
+        padding: 20px 45px;
+        height: 350px;
+        width: 500px;
+    }
+
+    .container .component-content a {
+        font-size: 15px;
+    }
+
+    .tenth-section-difference img {
+        width: 30%;
+        margin-left: 150px;
+    }
+
+    .second-section-kit .container iframe {
+        width: 450px;
+        height: 300px;
+    }
+
+    .seventh-section-kit .row .faq-icon b {
+        font-size: 17px;
+        padding: 0px 0 0px 10px;
+    }
+
+    .sixth-section-kit img {
+        margin: 9px 0;
+    }
+
+    .tab-content .col-lg-8 iframe {
+        width: 400px;
+        height: 300px;
+    }
+
+    .component-content-risk h2 {
+        font-size: 28px;
+    }
+
+    .second-section-insurance .row .faq-icon b {
+        font-size: 20px;
+        padding: 0px 0 0px 34px;
+    }
+
+    .second-section-insurance .row .faq-icon {
+        border: 13px solid var(--primary);
+    }
+
+    .right-first-about iframe,
+    .right-fourth-about iframe {
+        width: 450px;
+        height: 300px;
+    }
+
+    .first-section-about h1 {
+        font-size: 35px;
+    }
+
+    .sixth-section-about img {
+        width: 500px;
+    }
+
+    .eight-section-about h3,
+    .eight-section-about p {
+        padding: 10px;
+    }
+
+    .sub-main-eleventh {
+        padding-top: 25px;
+    }
+
+    .first-section-about {
+        background-position: -200px 0%;
+        padding: 80px 0 27px 0 !important;
+
+    }
+
+    .left-first-about {
+        width: 98%;
+    }
+
+    .second-about-a a {
+        font-size: 18px !important;
+        /* flex: 0 54.5%; */
+        max-width: 90%;
+        margin: 5px auto;
+        text-decoration: none;
+        color: #fff;
+        background-color: #00a49a;
+        padding: 10px 0;
+        border-radius: 50px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 28px;
+        display: inline-block;
+        width: 100%;
+        margin: 10px auto;
+    }
+
+    .fifth-section-about img {
+        width: 15%;
+    }
+
+    .left-sixth-about img {
+        width: 100%;
+    }
+
+    .seventh-section-about h3 {
+        padding: 40px 0;
+    }
+
+    .second-section-patient .ex-patient-featured-item {
+        margin-top: 28px;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text {
+        padding: 15px 10px 5px 13px;
+    }
+
+    .center-third-patient .ex-patient-stories-text,
+    .right-third-patient .ex-patient-stories-text {
+        padding: 25px;
+    }
+
+    .left-fourth-patient .ex-patient-stories-text,
+    .center-fourth-patient .ex-patient-stories-text,
+    .right-fourth-patient .ex-patient-stories-text,
+    .left-fifth-patient .ex-patient-stories-text,
+    .center-fifth-patient .ex-patient-stories-text,
+    .right-fifth-patient .ex-patient-stories-text {
+        padding: 20px;
+    }
+
+}
+
+@media screen and (max-width: 479px) and (min-width: 380px) {
+    a.btn-type-3 {
+        margin-right: 140px;
+        justify-content: center;
+        margin: auto;
+        margin-bottom: 33px;
+    }
+
+    .fourth-section-kit a {
+        margin: 0 0px;
+    }
+
+    h4.field-promotext {
+        padding-top: 0;
+        margin-bottom: 0;
+        padding-bottom: 40px;
+        display: flex;
+        text-align: center;
+    }
+
+    .second-section-row ul li img {
+        width: 10%;
+    }
+
+    .second-section-row p {
+        font-size: 15px;
+    }
+
+    .info-btn-1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .second-section-row {
+        background-color: #fff;
+        padding: 20px 0px;
+    }
+
+    .second-container iframe {
+        margin-top: 30px;
+        width: 200px;
+        height: 150px;
+    }
+
+    .second-section-row ul li {
+        /* display: flex; */
+        padding: 0px 0;
+        align-items: center;
+    }
+
+    .second-section-row ul li h3 {
+        font-size: 19px;
+        margin-left: 22px;
+        margin-top: 12px;
+    }
+
+    .main-menu img {
+        max-width: 70%;
+        padding: 24px 0 24px 115px;
+    }
+
+    .main-menu h2 {
+        padding-top: 25px;
+        font-size: 20px;
+        color: var(--white);
+        padding-left: 52px;
+    }
+
+    .second-section-row .left-billpay {
+        display: flex;
+        background-color: #b8c7d3;
+        padding: 0px;
+    }
+
+    .second-section-row .left-billpay i {
+        margin: 20px;
+        font-size: 25px;
+        margin-bottom: 100px;
+    }
+
+    .second-section-row .right-billpay {
+        display: flex;
+        background-color: var(--primary);
+        padding: 0px;
+    }
+
+    .second-section-row .right-billpay i {
+        border: 20px solid var(--white);
+        background-color: var(--white);
+        color: var(--black);
+        margin: 20px;
+        font-size: 25px;
+        margin-bottom: 170px;
+    }
+
+    .second-section-row .left-contact {
+        padding: 5px;
+    }
+
+    .second-section-row .right-contact {
+        padding: 5px;
+    }
+
+    .left-contact img {
+        width: 15%;
+    }
+
+    .right-contact img {
+        width: 15%;
+    }
+
+    .second-section-row h4 {
+        font-size: 15px;
+    }
+
+    .ex-button-style-transparent {
+        font-size: 13px;
+    }
+
+    .ex-button-style-blue {
+        font-size: 13px;
+    }
+
+    .second-section-45 .row .faq-icon b {
+        font-size: 20px;
+        padding: 0px 0 0px 10px;
+    }
+
+    .accordion-faq .label {
+        font-size: 20px;
+    }
+
+    .field-content,
+    .field-content p {
+        font-size: 16px;
+    }
+
+    .second-section-45 h4 {
+        font-size: 18px;
+    }
+
+    .second-section-difference .container {
+        padding: 5px 0 0 0;
+        display: block;
+    }
+
+    .second-section-difference iframe {
+        padding: 20px 35px;
+        height: 250px;
+        width: 350px;
+    }
+
+    .second-section-difference .search {
+        padding: 2px 0;
+    }
+
+    .third-section-difference h2 {
+        padding: 31px;
+        font-size: 16px;
+    }
+
+    .fifth-section-difference iframe {
+        padding: 20px 35px;
+        height: 250px;
+        width: 350px;
+    }
+
+    .container .component-content a {
+        font-size: 15px;
+    }
+
+    .tenth-section-difference img {
+        width: 30%;
+        margin-left: 120px;
+    }
+
+    .second-section-kit .container iframe {
+        width: 350px;
+        height: 200px;
+    }
+
+    .seventh-section-kit .row .faq-icon b {
+        font-size: 16px;
+        padding: 0px 0 0px 8px;
+    }
+
+    .sixth-section-kit img {
+        margin: 35px 0;
+    }
+
+    .sixth-section-kit .first-sixth p {
+        padding-top: 33px;
+    }
+
+    .accordion-faq .accordion-kit ul {
+        font-size: 16px;
+    }
+
+    .tab-content .col-lg-8 iframe {
+        width: 300px;
+        height: 200px;
+    }
+
+    .second-section-45 {
+        padding: 41px 0;
+    }
+
+    .component-content-risk h2 {
+        font-size: 20px;
+    }
+
+    .second-section-insurance .row .faq-icon b {
+        font-size: 18px;
+        padding: 0px 0 0px 7px;
+    }
+
+    .second-section-insurance .row .faq-icon {
+        border: 13px solid var(--primary);
+        font-size: 44px;
+    }
+
+    .right-first-about iframe,
+    .right-fourth-about iframe {
+        width: 350px;
+        height: 300px;
+    }
+
+    .first-section-about h1 {
+        font-size: 35px;
+    }
+
+    .sixth-section-about img {
+        width: 500px;
+    }
+
+    .eight-section-about h3,
+    .eight-section-about p {
+        padding: 10px;
+    }
+
+    .sub-main-eleventh {
+        padding-top: 25px;
+    }
+
+    .first-section-about {
+        background-position: -200px 0%;
+        padding: 50px 0 27px 0 !important;
+
+    }
+
+    .left-first-about {
+        width: 98%;
+    }
+
+
+    .second-about-a a {
+        font-size: 18px !important;
+        /* flex: 0 54.5%; */
+        max-width: 90%;
+        margin: 5px auto;
+        text-decoration: none;
+        color: #fff;
+        background-color: #00a49a;
+        padding: 10px 0;
+        border-radius: 50px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 28px;
+        display: inline-block;
+        width: 100%;
+        margin: 10px auto;
+    }
+
+    .fifth-section-about img {
+        width: 15%;
+    }
+
+    .left-sixth-about img {
+        width: 100%;
+    }
+
+    .seventh-section-about h3 {
+        padding: 40px 0;
+    }
+
+    .tenth-section-about .field-promolink a {
+        padding: 12px 35px;
+    }
+
+    .main-eleventh-about img {
+        width: 25%;
+    }
+
+    .second-section-patient .ex-patient-featured-item {
+        margin-top: 28px;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text {
+        padding: 15px 10px 5px 13px;
+    }
+
+    .center-third-patient .ex-patient-stories-text,
+    .right-third-patient .ex-patient-stories-text {
+        padding: 25px;
+    }
+
+    .left-fourth-patient .ex-patient-stories-text,
+    .center-fourth-patient .ex-patient-stories-text,
+    .right-fourth-patient .ex-patient-stories-text,
+    .left-fifth-patient .ex-patient-stories-text,
+    .center-fifth-patient .ex-patient-stories-text,
+    .right-fifth-patient .ex-patient-stories-text {
+        padding: 20px;
+    }
+
+    .second-section-patient .ex-patient-featured-item img {
+        width: auto;
+        height: 182px;
+    }
+
+    .field-promotext2,
+    .field-promotext {
+        padding: 0;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    a.btn-type-3 {
+        margin: 0 0 20px 0;
+    }
+}
+
+@media screen and (max-width: 379px) {
+    a.btn-type-3 {
+        display: flex;
+        margin-right: 85px;
+        justify-content: center;
+        margin: 0;
+        margin-bottom: 17px;
+        font-size: 14px;
+    }
+
+    .field-promotext2,
+    .field-promotext {
+        color: #fff;
+        font-weight: 700;
+        padding: 0px;
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+
+    .tenth-section-difference .container .right-tenth {
+        padding-left: 0px;
+    }
+
+    .second-section-row ul li img {
+        width: 20%;
+    }
+
+    h4.field-promotext {
+        padding-top: 0px;
+        margin-bottom: 0px;
+        display: flex;
+        padding-bottom: 12px;
+        text-align: center;
+    }
+
+    .second-section-row p {
+        font-size: 16px;
+    }
+
+    .second-section-row ul li p {
+        margin: 4px 15px;
+    }
+
+    .info-btn-1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .second-section-row {
+        background-color: #fff;
+        padding: 20px 0px;
+    }
+
+    .second-container iframe {
+        margin: 30px 0;
+        width: 220px;
+        height: 120px;
+    }
+
+    .second-section-45 .row {
+        padding: 20px;
+    }
+
+    .second-section-row ul li {
+        /* display: flex; */
+        padding: 0px 10px;
+        align-items: center;
+        font-size: 16px;
+    }
+
+    .second-section-row ul li h3 {
+        font-size: 18px;
+        margin-left: 22px;
+        margin-top: 12px;
+    }
+
+    .main-menu img {
+        max-width: 70%;
+        padding: 24px 0 24px 96px;
+    }
+
+    .main-menu h2 {
+        padding-top: 25px;
+        font-size: 15px;
+        color: var(--white);
+        padding-left: 52px;
+    }
+
+    .second-section-row .left-billpay {
+        display: flex;
+        background-color: #b8c7d3;
+        padding: 0px;
+    }
+
+    .second-section-row .right-billpay {
+        display: flex;
+        background-color: var(--primary);
+        padding: 20px 0;
+    }
+
+    .second-section-row .left-billpay i {
+        margin: 20px;
+        font-size: 20px;
+        margin-bottom: 130px;
+    }
+
+    .second-section-row .right-billpay i {
+        border: 20px solid var(--white);
+        background-color: var(--white);
+        color: var(--black);
+        margin: 20px;
+        font-size: 20px;
+        margin-bottom: 206px;
+    }
+
+    .slide img {
+        object-position: right;
+    }
+
+    .second-section-row h4 {
+        font-size: 15px;
+    }
+
+    .second-section-row .right-contact,
+    .second-section-row .left-contact {
+        padding: 10px 25px;
+    }
+
+    .left-contact img,
+    .right-contact img {
+        width: 25%;
+    }
+
+
+    .ex-button-style-transparent {
+        font-size: 16px;
+        padding: 3px;
+    }
+
+    .ex-button-style-blue {
+        font-size: 16px;
+        padding: 3px;
+    }
+
+    .card-body h4 {
+        font-size: 16px;
+    }
+
+    .card-body p {
+        font-size: 16px;
+    }
+
+    .card-body ul li {
+        font-size: 16px;
+    }
+
+    .row .second-container h2 {
+        font-size: 24px;
+    }
+
+    a.btn-type-3 {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+
+    .second-section-45 .row .faq-icon b {
+        font-size: 13px;
+        padding: 0px 0 0px 9px;
+    }
+
+    .second-section-45 .row {
+        padding: 0px;
+    }
+
+    .second-section-45 .row .faq-icon {
+        font-size: 30px;
+    }
+
+    .accordion-faq .label {
+        font-size: 24px;
+    }
+
+    .field-content,
+    .field-content p {
+        font-size: 16px;
+    }
+
+    .second-section-45 h4 {
+        font-size: 16px; 
+        padding: 0 10px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    .second-section-difference .container {
+        padding: 5px 0 0 0;
+        display: block;
+    }
+
+    .second-section-difference iframe {
+        padding: 20px 25px;
+        height: 250px;
+        width: 300px;
+    }
+
+    .second-section-difference .search {
+        padding: 2px 0;
+    }
+
+    .third-section-difference h2 {
+        padding: 28px;
+        font-size: 16px;
+    }
+
+    .fifth-section-difference iframe {
+        padding: 20px 25px;
+        height: 250px;
+        width: 300px;
+    }
+
+    .container .component-content a {
+        font-size: 15px;
+    }
+
+    .tenth-section-difference img {
+        width: 50%;
+        margin-left: 70px;
+    }
+
+    .second-section-kit .container iframe {
+        width: 275px;
+        height: 200px;
+    }
+
+    .fourth-section-kit a {
+        margin: 0 -50px;
+    }
+
+    .seventh-section-kit .row .faq-icon b {
+        font-size: 14px;
+        padding: 0px 0 0px 13px;
+    }
+
+    .seventh-section-kit .row .faq-icon {
+        border: 15px solid var(--primary);
+        background-color: var(--primary);
+        border-radius: 0;
+        color: var(--white);
+        font-size: 48px;
+        display: flex;
+    }
+
+
+    .sixth-section-kit img {
+        margin: 38px 0;
+    }
+
+    .sixth-section-kit .first-sixth p {
+        padding-top: 33px;
+    }
+
+    .accordion-faq .accordion-kit ul {
+        font-size: 14px;
+    }
+
+    .tab-content .col-lg-8 iframe {
+        width: 250px;
+        height: 200px;
+    }
+
+    .second-section-45 {
+        padding: 41px 0;
+    }
+
+    .component-content-risk h2 {
+        font-size: 24px;
+    }
+
+    .second-section-resources .col-lg-7.padding-40 {
+        padding: 10px;
+    }
+
+    .first-resource .sub-first .content-resources a {
+        border: 7px solid var(--secondary);
+        padding: 0 15px;
+    }
+
+    .second-section-45 .second-section-resources .col-lg-5 img {
+        padding: 50px;
+    }
+
+    .second-section-insurance .row .faq-icon b {
+        font-size: 18px;
+        padding: 0px 0 0px 7px;
+    }
+
+    .second-section-insurance .row .faq-icon {
+        border: 10px solid var(--primary);
+        font-size: 44px;
+    }
+
+    .right-first-about iframe,
+    .right-fourth-about iframe {
+        width: 100%;
+        height: 200px;
+        margin-left: 0;
+    }
+
+    .first-section-about h1 {
+        font-size: 35px;
+    }
+
+    .sixth-section-about img {
+        width: 500px;
+    }
+
+    .eight-section-about h3,
+    .eight-section-about p {
+        padding: 10px;
+    }
+
+    .sub-main-eleventh {
+        padding-top: 25px;
+    }
+
+    .first-section-about {
+        background-position: 0px 38%;
+        padding: 80px 0 27px 0 !important;
+    }
+
+    .first-section-about {
+        background-size: contain;
+    }
+
+    .left-first-about {
+        width: 98%;
+    }
+
+    .second-about-a a {
+        font-size: 18px !important;
+        /* flex: 0 54.5%; */
+        max-width: 90%;
+        margin: 5px auto;
+        text-decoration: none;
+        color: #fff;
+        background-color: #00a49a;
+        padding: 10px 0;
+        border-radius: 50px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 28px;
+        display: inline-block;
+        width: 100%;
+        margin: 10px auto;
+    }
+
+    .fifth-section-about img {
+        width: 28%;
+    }
+
+    .left-sixth-about img {
+        width: 100%;
+    }
+
+    .seventh-section-about h3 {
+        padding: 40px 0;
+    }
+
+    .tenth-section-about .field-promolink a {
+        padding: 9px 5px;
+    }
+
+    .main-eleventh-about img {
+        width: 25%;
+    }
+
+    .second-section-patient .ex-patient-featured-item {
+        margin-top: 28px;
+    }
+
+    .second-section-patient .component-content .ex-patient-featured-item .ex-patient-featured-text {
+        padding: 15px 10px 5px 90px;
+    }
+
+    .center-third-patient .ex-patient-stories-text,
+    .right-third-patient .ex-patient-stories-text {
+        padding: 25px;
+    }
+
+    .left-fourth-patient .ex-patient-stories-text,
+    .center-fourth-patient .ex-patient-stories-text,
+    .right-fourth-patient .ex-patient-stories-text,
+    .left-fifth-patient .ex-patient-stories-text,
+    .center-fifth-patient .ex-patient-stories-text,
+    .right-fifth-patient .ex-patient-stories-text {
+        padding: 20px;
+    }
+
+    .second-section-patient .ex-patient-featured-item img {
+        width: 330%;
+        height: 200px;
+        object-fit: cover;
+    }
+}
